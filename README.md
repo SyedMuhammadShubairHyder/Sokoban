@@ -21,26 +21,26 @@ Sokoban is a puzzle game in which the player pushes boxes around in a warehouse,
 
 Key classes include:
 
-Game: Manages the overall game state and game loop.
+- Game: Manages the overall game state and game loop.
 
-Floor: Represents Gameboard and all the game logic.
+- Floor: Represents Gameboard and all the game logic.
 
-Player: Manages player state .
+- Player: Manages player state .
 
 
 
 
 ## Features
 
-Classic Sokoban Gameplay: Move the player character to push boxes to their target locations.
+- Classic Sokoban Gameplay: Move the player character to push boxes to their target locations.
 
-Console-Based Interface: Play the game directly in your terminal or console window.
+- Console-Based Interface: Play the game directly in your terminal or console window.
 
-Object-Oriented Design: Leverages OOP principles for clean and maintainable code.
+- Object-Oriented Design: Leverages OOP principles for clean and maintainable code.
 
-Hardcoded Levels: Includes a variety of levels to challenge your puzzle-solving skills.
+- Hardcoded Levels: Includes a variety of levels to challenge your puzzle-solving skills.
 
-Restart Feature: Allows you to restart the game or Pause the game.
+- Restart Feature: Allows you to restart the game or Pause the game.
 
 ## How To Play
 
@@ -53,7 +53,7 @@ Restart Feature: Allows you to restart the game or Pause the game.
 
 - Use the control keys to move the player character. The player can push a box by moving towards it.
 
--Plan your moves carefully, as you cannot pull boxes, only push them.
+- Plan your moves carefully, as you cannot pull boxes, only push them.
 
 
 
@@ -72,12 +72,12 @@ Restart Feature: Allows you to restart the game or Pause the game.
 <img width="661" alt="Game" src="https://github.com/shubairHyder/Sokoban/assets/167424904/3f296289-f15d-4cb4-aa9a-c4ee19116ef6">
 </p>
 
-<strong>@</strong> :: Player starting position
-<strong>#</strong> :: Walls
-<strong>O</strong> :: Box
-<strong>+</strong> :: Storage location
-<strong>X</strong> :: Box on storage location
-<strong>(space)</strong> :: Air/Empty space
+- <strong>@</strong> :: Player starting position
+- <strong>#</strong> :: Walls
+- <strong>O</strong> :: Box
+- <strong>+</strong> :: Storage location
+- <strong>X</strong> :: Box on storage location
+- <strong>(space)</strong> :: Air/Empty space
 
 ## Records
 
